@@ -1,0 +1,14 @@
+  				HOW TO USE ADMIN PANEL PROGRAM (ADMIN.EXE)
+
+	1. Username= admin
+	2. password= 7861
+	3. then menu will appear.
+	4. from that menu you have select the number from the number!
+	the program will run unless you press 4 to exit.
+		Thanks.
+
+		BY G.MUSTAFA SHAIKH
+
+
+			
+		
